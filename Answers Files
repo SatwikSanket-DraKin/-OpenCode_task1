@@ -1,0 +1,44 @@
+(1) Difference between Git and GitHub :-
+Git is a distributed version control system for tracking changes in source code during software development, whereas GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.
+i.e Git is a tool that’s used to manage multiple versions of source code edits that are then transferred to files in a Git repository and GitHub serves as a location for uploading copies of a Git repository.
+In a sense, it can be said that, there’s no comparison when it comes to Git vs. GitHub as far as their function.
+But in a general sense the differences between Git and GitHub can be as follows,
+i)	  Git is a software, but	GitHub is a service.
+ii) 	Git is a command-line tool, whereas	GitHub is a graphical user interface.
+iii)	Git is installed locally on the system, and	GitHub is hosted on the web.
+iv)	  Git is maintained by linux; however, GitHub is maintained by Microsoft.
+v)	  Git is focused on version control and code sharing, but	GitHub is focused on centralized source code hosting.
+vi)   Git is a version control system to manage source code history, whereas GitHub is a hosting service for Git repositories.
+vii)	Git has no user management feature, but GitHub has a built-in user management feature.
+viii) Git is open-source licensed; however, GitHub includes a free-tier and pay-for-use tier.
+ix)  	Git has minimal external tool configuration,but GitHub has an active marketplace for tool integration.
+x) 	  Git provides a Desktop interface named Git Gui and GitHub provides a Desktop interface named GitHub Desktop.
+xi) 	Git competes with CVS, Azure DevOps Server, Subversion, Mercurial, etc; however, GitHub competes with GitLab, Git Bucket, AWS Code Commit, etc.
+
+(2) Basic Commands Used in Git :-
+i)   git add-
+     This command moves changes from the working directory to the staging area. This gives us the opportunity to prepare a snapshot before committing it to the official history.
+ii)  git clone-
+     This one creates a copy of an existing Git repository. Cloning is the most common way to obtain a working copy of a central repository.
+iii) git init-
+     It initializes a new Git repository. If a project is to be placed under revision control, this is the first command that is required to be learned.
+iv)  git log-
+     This command lets us explore the previous revisions of a project. It also provides several formatting options for displaying committed snapshots. 
+v)   git reset-
+     It undoes changes to files in the working directory. Resetting lets us clean up or completely remove changes that have not been pushed to a public repository.  
+   
+(3) Pull Request-
+    Pull requests are the way we contribute to group projects or open source projects.
+    
+    Steps Required to Make a Pull Request-
+(i)   First we have to fork the repository by clicking the fork button on the top of the page. This creates an instance of that entire repository in our account.
+(ii)  Once the repository is in our account, we have to clone it to our machine to work with it locally.
+(iii) Then we have to create a branch using the git checkout command: $ git checkout -b [Branch Name] .
+(iv)  After making essential changes to the project and saving it, we have to add those changes to the recently created branch using the git add command: $ git add . Thereafter we need to  commit those changes using the git commit command: $ git commit -m " " .
+(v)   Then in order to push the changes to GitHub, we need to identify the remote’s name by using the command; $ git remote . After identifying the remote’s name we can safely push those changes to GitHub.
+(vi)  Then we have to go to our repository on GitHub and click the button “Compare & pull request”. After providing the necessary details on what we have done, we need to submit the pull request.
+      
+Note: In the answer to question 3, all the dots at the end of the sentances, are full stops. They are not part of any commands even if they are present after them.
+
+
+     
