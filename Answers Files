@@ -13,7 +13,7 @@ vii) Git has no user management feature, but GitHub has a built-in user manageme
 viii)Git is open-source licensed; however, GitHub includes a free-tier and pay-for-use tier.
 ix)  Git has minimal external tool configuration,but GitHub has an active marketplace for tool integration.
 x)   Git provides a Desktop interface named Git Gui and GitHub provides a Desktop interface named GitHub Desktop.
-xi) 	Git competes with CVS, Azure DevOps Server, Subversion, Mercurial, etc; however, GitHub competes with GitLab, Git Bucket, AWS Code Commit, etc.
+xi)  Git competes with CVS, Azure DevOps Server, Subversion, Mercurial, etc; however, GitHub competes with GitLab, Git Bucket, AWS Code Commit, etc.
 
 (2) Basic Commands Used in Git :-
 i)   git add-
