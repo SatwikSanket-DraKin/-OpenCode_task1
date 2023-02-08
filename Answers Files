@@ -3,16 +3,16 @@ Git is a distributed version control system for tracking changes in source code 
 i.e Git is a tool that’s used to manage multiple versions of source code edits that are then transferred to files in a Git repository and GitHub serves as a location for uploading copies of a Git repository.
 In a sense, it can be said that, there’s no comparison when it comes to Git vs. GitHub as far as their function.
 But in a general sense the differences between Git and GitHub can be as follows,
-i)	  Git is a software, but	GitHub is a service.
-ii) 	Git is a command-line tool, whereas	GitHub is a graphical user interface.
+i)   Git is a software, but GitHub is a service.
+ii) 	Git is a command-line tool, whereas GitHub is a graphical user interface.
 iii)	Git is installed locally on the system, and	GitHub is hosted on the web.
-iv)	  Git is maintained by linux; however, GitHub is maintained by Microsoft.
-v)	  Git is focused on version control and code sharing, but	GitHub is focused on centralized source code hosting.
-vi)   Git is a version control system to manage source code history, whereas GitHub is a hosting service for Git repositories.
+iv)  Git is maintained by linux; however, GitHub is maintained by Microsoft.
+v)   Git is focused on version control and code sharing, but	GitHub is focused on centralized source code hosting.
+vi)  Git is a version control system to manage source code history, whereas GitHub is a hosting service for Git repositories.
 vii)	Git has no user management feature, but GitHub has a built-in user management feature.
-viii) Git is open-source licensed; however, GitHub includes a free-tier and pay-for-use tier.
-ix)  	Git has minimal external tool configuration,but GitHub has an active marketplace for tool integration.
-x) 	  Git provides a Desktop interface named Git Gui and GitHub provides a Desktop interface named GitHub Desktop.
+viii)Git is open-source licensed; however, GitHub includes a free-tier and pay-for-use tier.
+ix)  Git has minimal external tool configuration,but GitHub has an active marketplace for tool integration.
+x)   Git provides a Desktop interface named Git Gui and GitHub provides a Desktop interface named GitHub Desktop.
 xi) 	Git competes with CVS, Azure DevOps Server, Subversion, Mercurial, etc; however, GitHub competes with GitLab, Git Bucket, AWS Code Commit, etc.
 
 (2) Basic Commands Used in Git :-
